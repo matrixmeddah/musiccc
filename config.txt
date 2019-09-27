@@ -1,6 +1,0 @@
-﻿token= NjI2MTY1Mzg2MzA3NTY3NjE3.XYqIAw.xeRVhkTDr2XkRc20wJaK3e3LSEk
-owner= 563815999539904532
-prefix= !inj
-game= !injhelp
-stayinchannel=true 
-songinstatus= true
